@@ -21,8 +21,6 @@ VerseVibe is an AI-powered Book Recommendation System that suggests books to use
 * Python
 * Pandas, NumPy
 * Scikit-learn
-* Pickle (Model Storage)
-* Streamlit (optional UI)
 
 ---
 
@@ -47,13 +45,6 @@ The dataset used in this project includes:
 5. Model saved using Pickle
 
 ---
-
-##  How to Run
-
-```bash
-pip install -r requirements.txt
-python app.py
-```
 
 
 ---
